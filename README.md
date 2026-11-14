@@ -39,7 +39,7 @@
 **
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -48,12 +48,12 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Eng-AbdulrahmanAhmed&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats" />
 </a>
 <a href="https://github.com/Eng-AbdulrahmanAhmed">
-  <!-- <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-AbdulrahmanAhmed&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" /> -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-AbdulrahmanAhmed&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
 </a>
-
+-->
 <br/>
 
-<!-- <img width="70%" src="https://streak-stats.demolab.com?user=Eng-AbdulrahmanAhmed&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" /> -->
+<img width="70%" src="https://streak-stats.demolab.com?user=Eng-AbdulrahmanAhmed&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" /> 
 
 <br/>
 
