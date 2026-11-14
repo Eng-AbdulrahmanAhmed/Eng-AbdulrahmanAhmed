@@ -35,8 +35,8 @@
 - 🌱 I'm currently learning: **DevOps**
 - 💡 Interested in: **Fullstack Development**
 - 🎯 2026 goal: **Becoming A better person**
-- 📫 Reach me at **abdulrahman.ahmed.business@gmail.com
-**
+- 📫 Reach me at abdulrahman.ahmed.business@gmail.com
+
 
 ---
 <!--
@@ -113,16 +113,16 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<!-- <div align="center"> -->
 
-<a href="https://github.com/Eng-AbdulrahmanAhmed/Certificates-">
+<!-- <a href="https://github.com/Eng-AbdulrahmanAhmed/Certificates-"> -->
   <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Eng-AbdulrahmanAhmed&repo=Certificates-&theme=tokyonight&hide_border=true" alt="Certificates" /> -->
-</a>
-<a href="https://github.com/Eng-AbdulrahmanAhmed/Restaurant-with-AI-Voice-Agent-">
+<!-- </a>
+<a href="https://github.com/Eng-AbdulrahmanAhmed/Restaurant-with-AI-Voice-Agent-"> -->
   <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Eng-AbdulrahmanAhmed&repo=Restaurant-with-AI-Voice-Agent-&theme=tokyonight&hide_border=true" alt="Restaurant-with-AI-Voice-Agent-" /> -->
-</a>
+<!-- </a> -->
 
-</div>
+<!-- </div> -->
 
 ---
 
