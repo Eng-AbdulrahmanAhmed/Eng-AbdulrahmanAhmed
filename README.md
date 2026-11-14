@@ -31,9 +31,9 @@
 
 ## 📌 About Me
 
-- 🔭 I'm currently working on **AI Voice Agents**
-- 🌱 I'm currently learning **DevOps**
-- 💡 Interested in **Fullstack Development**
+- 🔭 I'm currently working on: **AI Voice Agents**
+- 🌱 I'm currently learning: **DevOps**
+- 💡 Interested in: **Fullstack Development**
 - 🎯 2026 goal: **Becoming A better person**
 - 📫 Reach me at **abdulrahman.ahmed.business@gmail.com
 **
