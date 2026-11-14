@@ -128,7 +128,7 @@
 ## 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/abdulrahman-ahmed-a3464b224/)/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:abdulrahman.ahmed.business@gmail.com
