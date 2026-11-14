@@ -48,16 +48,16 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Eng-AbdulrahmanAhmed&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats" />
 </a>
 <a href="https://github.com/Eng-AbdulrahmanAhmed">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-AbdulrahmanAhmed&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
+  <!-- <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-AbdulrahmanAhmed&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" /> -->
 </a>
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Eng-AbdulrahmanAhmed&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
+<!-- <img width="70%" src="https://streak-stats.demolab.com?user=Eng-AbdulrahmanAhmed&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" /> -->
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Eng-AbdulrahmanAhmed&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+<!-- <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Eng-AbdulrahmanAhmed&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" /> -->
 
 </div>
 
@@ -116,10 +116,10 @@
 <div align="center">
 
 <a href="https://github.com/Eng-AbdulrahmanAhmed/Certificates-">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Eng-AbdulrahmanAhmed&repo=Certificates-&theme=tokyonight&hide_border=true" alt="Certificates" />
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Eng-AbdulrahmanAhmed&repo=Certificates-&theme=tokyonight&hide_border=true" alt="Certificates" /> -->
 </a>
 <a href="https://github.com/Eng-AbdulrahmanAhmed/Restaurant-with-AI-Voice-Agent-">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Eng-AbdulrahmanAhmed&repo=Restaurant-with-AI-Voice-Agent-&theme=tokyonight&hide_border=true" alt="Restaurant-with-AI-Voice-Agent-" />
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Eng-AbdulrahmanAhmed&repo=Restaurant-with-AI-Voice-Agent-&theme=tokyonight&hide_border=true" alt="Restaurant-with-AI-Voice-Agent-" /> -->
 </a>
 
 </div>
