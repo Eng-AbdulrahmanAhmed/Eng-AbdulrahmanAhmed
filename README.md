@@ -31,11 +31,12 @@
 
 ## 📌 About Me
 
-- 🔭 I'm currently working on **[YOUR_CURRENT_PROJECT]**
-- 🌱 I'm currently learning **[WHAT_YOU_ARE_LEARNING]**
-- 💡 Interested in **[YOUR_INTERESTS / SPECIALTIES]**
-- 🎯 2026 goal: **[YOUR_GOAL]**
-- 📫 Reach me at **[YOUR_EMAIL]**
+- 🔭 I'm currently working on **AI Voice Agents**
+- 🌱 I'm currently learning **DevOps**
+- 💡 Interested in **Fullstack Development**
+- 🎯 2026 goal: **Becoming A better person**
+- 📫 Reach me at **abdulrahman.ahmed.business@gmail.com
+**
 
 ---
 
