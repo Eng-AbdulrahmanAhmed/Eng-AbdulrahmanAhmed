@@ -17,11 +17,11 @@
 </p>
 
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet" alt="Profile views" />
+  <a href="https://github.com/Eng-AbdulrahmanAhmed">
+    <img src="https://komarev.com/ghpvc/?username=Eng-AbdulrahmanAhmed&style=for-the-badge&color=blueviolet" alt="Profile views" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=0e75b6" alt="GitHub followers" />
+  <a href="https://github.com/Eng-AbdulrahmanAhmed?tab=followers">
+    <img src="https://img.shields.io/github/followers/Eng-AbdulrahmanAhmed?style=for-the-badge&color=0e75b6" alt="GitHub followers" />
   </a>
 </p>
 
@@ -43,20 +43,20 @@
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats" />
+<a href="https://github.com/Eng-AbdulrahmanAhmed">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Eng-AbdulrahmanAhmed&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
+<a href="https://github.com/Eng-AbdulrahmanAhmed">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-AbdulrahmanAhmed&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
 </a>
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Eng-AbdulrahmanAhmed&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Eng-AbdulrahmanAhmed&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
 
 </div>
 
@@ -65,7 +65,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Eng-AbdulrahmanAhmed&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
 </div>
 
 ---
@@ -117,11 +117,11 @@
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_ONE">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_ONE&theme=tokyonight&hide_border=true" alt="Project one" />
+<a href="https://github.com/Eng-AbdulrahmanAhmed/Certificates-">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Eng-AbdulrahmanAhmed&repo=Certificates-&theme=tokyonight&hide_border=true" alt="Certificates" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_TWO">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_TWO&theme=tokyonight&hide_border=true" alt="Project two" />
+<a href="https://github.com/Eng-AbdulrahmanAhmed/Restaurant-with-AI-Voice-Agent-">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Eng-AbdulrahmanAhmed&repo=Restaurant-with-AI-Voice-Agent-&theme=tokyonight&hide_border=true" alt="Restaurant-with-AI-Voice-Agent-" />
 </a>
 
 </div>
@@ -134,12 +134,13 @@
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:abdulrahman.ahmed.business@gmail.com
+">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://YOUR_PORTFOLIO_URL">
+  <!-- <a href="https://YOUR_PORTFOLIO_URL">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
+  </a> -->
 </div>
 
 ---
