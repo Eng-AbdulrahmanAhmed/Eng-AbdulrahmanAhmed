@@ -41,9 +41,9 @@
 ---
 <!--
 ## 📊 GitHub Stats
-
+-->
 <div align="center">
-
+<!--
 <a href="https://github.com/Eng-AbdulrahmanAhmed">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Eng-AbdulrahmanAhmed&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats" />
 </a>
@@ -69,7 +69,7 @@
   <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Eng-AbdulrahmanAhmed&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
 </div> -->
 
----
+
 
 ## 🧰 Languages & Tools
 
