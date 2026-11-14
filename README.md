@@ -16,14 +16,14 @@
   <img src="./assets/developer-room.gif" alt="Pixel-art developer working at a desk" width="100%" />
 </p>
 
-<p>
+<!-- <p>
   <a href="https://github.com/Eng-AbdulrahmanAhmed">
     <img src="https://komarev.com/ghpvc/?username=Eng-AbdulrahmanAhmed&style=for-the-badge&color=blueviolet" alt="Profile views" />
   </a>
   <a href="https://github.com/Eng-AbdulrahmanAhmed?tab=followers">
     <img src="https://img.shields.io/github/followers/Eng-AbdulrahmanAhmed?style=for-the-badge&color=0e75b6" alt="GitHub followers" />
   </a>
-</p>
+</p> -->
 
 </div>
 
@@ -78,30 +78,30 @@
 ### Programming Languages
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,php&theme=dark" alt="Programming languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,javascript&theme=dark" alt="Programming languages" />
 </div>
 
 ### Frontend
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" alt="Frontend technologies" />
 </div>
 
 ### Backend
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask&theme=dark" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend technologies" />
 </div>
 
 ### Databases
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite&theme=dark" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=dark" alt="Databases" />
 </div>
 
-### DevOps & Cloud
-
-<div align="center">
+<!--
+### DevOps & Cloud -->
+<!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,githubactions&theme=dark" alt="DevOps and cloud tools" />
 </div>
 
@@ -109,7 +109,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,postman,vite,linux&theme=dark" alt="Development tools" />
-</div>
+</div> -->
 
 ---
 
