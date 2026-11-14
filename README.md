@@ -111,7 +111,7 @@
 
 ---
 
-## 🚀 Featured Projects
+<!--## 🚀 Featured Projects-->
 
 <!-- <div align="center"> -->
 
@@ -124,7 +124,7 @@
 
 <!-- </div> -->
 
----
+
 
 ## 🤝 Connect with Me
 
