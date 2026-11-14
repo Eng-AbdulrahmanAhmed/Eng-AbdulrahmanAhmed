@@ -12,9 +12,9 @@
 
 ### Developer • Problem Solver • Lifelong Learner
 
-<p>
+<!-- <p>
   <img src="./assets/developer-room.gif" alt="Pixel-art developer working at a desk" width="100%" />
-</p>
+</p> -->
 
 <!-- <p>
   <a href="https://github.com/Eng-AbdulrahmanAhmed">
