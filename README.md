@@ -62,18 +62,15 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
+<!-- 
+## 🏆 GitHub Trophies-->
+<!-- <div align="center">
   <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Eng-AbdulrahmanAhmed&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
-</div>
+</div> -->
 
 ---
 
 ## 🧰 Languages & Tools
-
-> Edit the icon IDs below to match the technologies you actually use.
-> Browse available IDs at [skillicons.dev](https://skillicons.dev/).
 
 ### Programming Languages
 
