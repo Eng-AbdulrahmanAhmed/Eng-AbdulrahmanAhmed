@@ -1,56 +1,51 @@
  <div align="center">
 
-# Hey, I'm Abdulrahman Ahmed
+# Hey 👋, I'm Abdulrahman Ahmed
 
 ### Developer • Problem Solver • Lifelong Learner
 
-<!--
-<p>
+<!-- <p>
   <img src="./assets/developer-room.gif" alt="Pixel-art developer working at a desk" width="100%" />
-</p>
--->
+</p> -->
 
-<!--
-<p>
+<!-- <p>
   <a href="https://github.com/Eng-AbdulrahmanAhmed">
     <img src="https://komarev.com/ghpvc/?username=Eng-AbdulrahmanAhmed&style=for-the-badge&color=blueviolet" alt="Profile views" />
   </a>
   <a href="https://github.com/Eng-AbdulrahmanAhmed?tab=followers">
     <img src="https://img.shields.io/github/followers/Eng-AbdulrahmanAhmed?style=for-the-badge&color=0e75b6" alt="GitHub followers" />
   </a>
-</p>
--->
+</p> -->
 
 </div>
 
 ---
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/user-round.svg?color=white"><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/user-round.svg?color=%2324292F" width="24" align="center" /></picture> About Me
+## 👤 About Me
 
-- <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/telescope.svg?color=white"><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/telescope.svg?color=%2324292F" width="19" align="center" /></picture> **Currently working on:** AI Voice Agents
-- <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/sprout.svg?color=white"><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/sprout.svg?color=%2324292F" width="19" align="center" /></picture> **Currently learning:** DevOps
-- <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/lightbulb.svg?color=white"><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/lightbulb.svg?color=%2324292F" width="19" align="center" /></picture> **Interested in:** Full-Stack Development
-- <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/target.svg?color=white"><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/target.svg?color=%2324292F" width="19" align="center" /></picture> **2026 Goal:** Becoming a better person
-- <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/mail.svg?color=white"><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/mail.svg?color=%2324292F" width="19" align="center" /></picture> **Reach me at:** [abdulrahman.ahmed.business@gmail.com](mailto:abdulrahman.ahmed.business@gmail.com)
+- 🔭 I'm currently working on: **AI Voice Agents**
+- 🌱 I'm currently learning: **DevOps**
+- 💡 Interested in: **Full-Stack Development**
+- 🎯 2026 goal: **Becoming a better person**
+- 📫 Reach me at: [abdulrahman.ahmed.business@gmail.com](mailto:abdulrahman.ahmed.business@gmail.com)
 
 ---
 
 <!--
-## GitHub Stats
-
+## 📊 GitHub Stats
+-->
 <div align="center">
-  <a href="https://github.com/Eng-AbdulrahmanAhmed">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Eng-AbdulrahmanAhmed&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/Eng-AbdulrahmanAhmed">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-AbdulrahmanAhmed&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
-  </a>
-</div>
+
+<!--
+<a href="https://github.com/Eng-AbdulrahmanAhmed">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Eng-AbdulrahmanAhmed&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats" />
+</a>
+<a href="https://github.com/Eng-AbdulrahmanAhmed">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-AbdulrahmanAhmed&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
+</a>
 -->
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/chart-no-axes-combined.svg?color=white"><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/chart-no-axes-combined.svg?color=%2324292F" width="24" align="center" /></picture> GitHub Activity
-
-<div align="center">
+<br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Eng-AbdulrahmanAhmed&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
 
@@ -64,7 +59,15 @@
 
 ---
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/code-2.svg?color=white"><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/code-2.svg?color=%2324292F" width="24" align="center" /></picture> Languages & Tools
+<!--
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Eng-AbdulrahmanAhmed&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
+</div>
+-->
+
+## 🧰 Languages & Tools
 
 ### Programming Languages
 
@@ -102,12 +105,18 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,githubactions&theme=dark" alt="DevOps and cloud tools" />
 </div>
+
+### Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,postman,vite,linux&theme=dark" alt="Development tools" />
+</div>
 -->
 
 ---
 
 <!--
-## Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -122,13 +131,14 @@
 </div>
 -->
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/handshake.svg?color=white"><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/handshake.svg?color=%2324292F" width="24" align="center" /></picture> Connect with Me
+## 🤝 Connect with Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/abdulrahman-ahmed-a3464b224/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+
 <a href="mailto:abdulrahman.ahmed.business@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
@@ -145,8 +155,8 @@
 
 <div align="center">
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/code.svg?color=white"><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/code.svg?color=%2324292F" width="22" align="center" /></picture> Building things, learning every day.
+### 💻 Building things, learning every day.
 
-<sub>Designed with <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/coffee.svg?color=white"><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/coffee.svg?color=%2324292F" width="16" align="center" /></picture> and a lot of curiosity.</sub>
+<sub>Designed with ☕ and a lot of curiosity.</sub>
 
 </div>
