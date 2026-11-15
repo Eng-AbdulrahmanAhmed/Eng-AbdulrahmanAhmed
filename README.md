@@ -89,7 +89,7 @@
 ### Backend
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend technologies" />
 </div>
 
 ### Databases & Backend Services
@@ -98,18 +98,10 @@
   <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,mongodb,sqlite&theme=dark" alt="Databases" />
 </div>
 
-### AI & Automation
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,docker&theme=dark" alt="AI and automation tools" />
-  <br/>
-  LiveKit · OpenRouter · n8n · MCP · RAG
-</div>
-
 ### Tools & Platforms
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,vercel,blender&theme=dark" alt="Development tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,figma,blender&theme=dark" alt="Development tools" />
 </div>
 
 
