@@ -73,10 +73,11 @@
 
 ## 🧰 Languages & Tools
 
+
 ### Programming Languages
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,javascript&theme=dark" alt="Programming languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark" alt="Programming languages" />
 </div>
 
 ### Frontend
@@ -88,14 +89,29 @@
 ### Backend
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend technologies" />
 </div>
 
-### Databases
+### Databases & Backend Services
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=dark" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,mongodb,sqlite&theme=dark" alt="Databases" />
 </div>
+
+### AI & Automation
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,docker&theme=dark" alt="AI and automation tools" />
+  <br/>
+  LiveKit · OpenRouter · n8n · MCP · RAG
+</div>
+
+### Tools & Platforms
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,vercel,blender&theme=dark" alt="Development tools" />
+</div>
+
 
 <!--
 ### DevOps & Cloud -->
