@@ -96,7 +96,7 @@
 ### Tools & Platforms
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,figma,blender&theme=dark" alt="Development tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vitest,vite,postman,docker,linux,figma,blender&theme=dark" alt="Development tools" />
 </div>
 
 <!--
